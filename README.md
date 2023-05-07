@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-payroll-calculation-program-python
+<br>
+A local small business has hired you to write a payroll calculation program. The program only needs to calculate gross pay for an employee and display the results. Your program will accept the employee’s name, hours worked, and the employee’s pay rate. The program will need to calculate overtime as well. Overtime is defined as anything over 40 hours is paid at 1.5 times the regular pay. The program should print the employee’s name, the gross pay amount, and only if there was overtime, print the overtime pay amount as well. Finally, the program should repeat as necessary until the user enters a sentinel value
